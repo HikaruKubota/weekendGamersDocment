@@ -1,0 +1,2 @@
+# weekendGamersDocment
+週末ゲーマーズドキュメントRepositoryです。
